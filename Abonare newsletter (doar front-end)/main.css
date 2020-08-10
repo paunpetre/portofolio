@@ -1,0 +1,12 @@
+
+.error {
+	margin: 0;
+	display: none;
+	color:red;
+}
+
+.child {
+	margin-bottom: 30px;
+}
+	
+	
