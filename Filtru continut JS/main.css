@@ -1,0 +1,25 @@
+div {
+	
+	box-sizing: border-box;
+	float: left;
+	margin-bottom: 15px;
+}
+
+.parent {
+	
+	width: 100%;
+	border: 1px solid green;
+	padding: 20px;
+	
+}
+
+.child {
+	
+	width: 30%;
+	border: 1px solid red;
+	height: 300px;
+	padding: 20px;
+	text-align: center;
+	margin: 0 60px 5px 0;
+	
+}
